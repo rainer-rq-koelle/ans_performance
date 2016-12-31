@@ -1,0 +1,5 @@
+book_filename: "OpsANSPerformance"
+chapter_name: "Chapter "
+edit:
+  link: https://github.com/rainer-rq-koelle/ans_performance/edit/master/%s
+  text: "Contribute"

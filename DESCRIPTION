@@ -1,0 +1,5 @@
+Package: placeholder
+Title: A fake DESCRIPTION file to make travis work
+Version: 0.0.1
+Imports: bookdown, ggplot2, dplyr, readr, plotly
+Remotes: rstudio/bookdown
