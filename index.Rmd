@@ -5,9 +5,9 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
-bibliography: book.bib
-biblio-style: apalike
-link-citations: yes
+#bibliography: book.bib
+#biblio-style: apalike
+#link-citations: yes
 github-repo: rainer-rq-koelle/ans_performance
 description: "This book project aims at establishing a reference for operational ANS performance measurement."
 ---
