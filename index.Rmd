@@ -23,5 +23,5 @@ As part of the R/RStudio universe, this book has been produced with the bookdown
 If you are interested in contributing to this development, please contact rainer.koelle@eurocontrol.int.     
 You may also make use of the bookdown commenting feature which is based on Git. If you feel uncomfortable with doing so, please send an email.
 
-![license](./images/by-nc-sa.png) This project / book is made available under the 
+![license](./figures/by-nc-sa.png) This project / book is made available under the 
 [Creative Commons Attribution Non-Commercial Share-Alike 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/).

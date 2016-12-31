@@ -24,3 +24,5 @@ The work here is licensed under the [Creative Commons License 4.0 Attribution Sh
 In short the license says that you can share and adopt the material (even for commercial purposes) given that you give appropriate credit and share your contributions under the same license.
 
 Now, let us reset the timers and check how far we get in 2017 !!!
+
+The current [online version](https://rainer-rq-koelle.github.io/ans_performance/).
