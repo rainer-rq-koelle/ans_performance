@@ -1,6 +1,6 @@
 # Preface {-}
 
-## About this book
+## About this book {-}
 
 This book is a reaction to my professional day-to-day experience. There is a steady debate about perceived shortcomings of performance metrics and why another metric is better suited for measuring a specific aspect of air transportation.
 
@@ -28,7 +28,7 @@ The book is divided into several parts.
 * The first part is targeted at high-level performance concepts and as such applicable in general. 
 * The second part focusses on operational aspects.
 
-## Who should read this book?
+## Who should read this book? {-}
 
 This book is written for everybody with an interest in (operational) performance of air navigation.
 The audience therefore includes interested readers, managers, regulators, and researchers.
@@ -38,17 +38,17 @@ Addressing such a spectrum poses a challenge. While I aim to provide respective 
 For students (or young professionals) I plan to add a set of questions at the end of each chapter to facilitate the learning process.    
 Note: This feature may develop asynchron from the book content.
 
-## How is this book written?
+## How is this book written? {-}
 
 This book was written using R/RStudio and the bookdown package.
 The book is openly accessible at [<<add link to repo>>]().
 
 You can access the book online or download the full book or the associated RMarkdown files.
 
-![license](./images/by-nc-sa.png) This project / book is made available under the 
+![license](./figures/by-nc-sa.png) This project / book is made available under the 
 [Creative Commons Attribution Non-Commercial Share-Alike 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-## About the author
+## About the author {-}
 
 My life revolves around aviation: I am an aviator, air traffic controller, and researcher.
 
