@@ -41,7 +41,8 @@ Note: This feature may develop asynchron from the book content.
 ## How is this book written? {-}
 
 This book was written using R/RStudio and the bookdown package.
-The book is openly accessible at [<<add link to repo>>]().
+The book is openly accessible at [Github](https://github.com/rainer-rq-koelle/ans_performance).
+To read the book online, use this [link](https://rainer-rq-koelle.github.io/ans_performance/).
 
 You can access the book online or download the full book or the associated RMarkdown files.
 
@@ -52,7 +53,7 @@ You can access the book online or download the full book or the associated RMark
 
 My life revolves around aviation: I am an aviator, air traffic controller, and researcher.
 
-At the time of writing, I work for the Performance Review Unit of <a href='http://www.eurocontrol.int', target='blank'>EUROCONTROL</a>.
+At the time of writing, I work for the Performance Review Unit of <a href='http://www.eurocontrol.int', target='_blank'>EUROCONTROL</a>.
 
 Part of my research picks up on my day-to-day activities with a focus on applying data science to assessing the operational performance of air navigation services and / or air transportation.
 
