@@ -1,0 +1,12 @@
+# (Part) Basics {-}
+
+The first part deals with the basics and high-level concepts of performance management.
+
+# Introduction
+
+Part I is dedicated to establish the basis of this book.
+In particular, this section defines
+
+* air transportation system
+* air navigation services
+* performance management
